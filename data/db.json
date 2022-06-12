@@ -1,0 +1,37 @@
+{
+    "kontenNgecor": [
+        { "id": 1, "gambar": "Bg-Ngecor-Itu-Ribet-1.jpg", "detail": "Belanja bolak balik di toko berbeda" },
+        { "id": 2, "gambar": "Bg-Ngecor-Itu-Ribet-2.jpg", "detail": "Lokasi sempit, gak ada tempat buat naruh barang" },
+        { "id": 3, "gambar": "Bg-Ngecor-Itu-Ribet-3.jpg", "detail": "Belum lagi cari tempat buat sewa alat" }
+    ],
+    "apkGocement": [
+        { "id": 1, "gambar": "Bisa-Pesan-Instant.png", "detail": "Bisa pesan bahan bangunan secara instan" },
+        { "id": 2, "gambar": "Ada-Kalkulator.png", "detail": "Ada kalkulator untuk rekomendasi jumlah bahan yang dibutuhkan" },
+        { "id": 3, "gambar": "Pembayaran-Mudah.png", "detail": "Pembayaran praktis dan mudah" }
+    ],
+    "keunggulan": [
+        { "id": 1, "gambar": "Diantar-Sampai-Tujuan-New.png", "detail": "Diantar sampai ke tujuan" },
+        { "id": 2, "gambar": "Produk-Berkualitas.png", "detail": "Produk berkualitas dan produk berstandar SNI" },
+        { "id": 3, "gambar": "Harga-Stabil-New.png", "detail": "Harga stabil dan transparan" }
+    ],
+    "fotoPekerja": [
+        { "id": 1, "gambar": "Image-3-Tossa.png" },
+        { "id": 2, "gambar": "Image-Angkat-Semen.png" },
+        { "id": 3, "gambar": "Image-Forklip.png" }
+    ],
+    "produkSemen": [
+        { "id": 1, "gambar": "Premix-Beton-K-175.jpg", "nama": "Premix Beton K-175", "detail": "Konstruksi bangunan bertingkat 2 lantai (ruko/rumah tinggal)" },
+        { "id": 2, "gambar": "Premix-Beton-K-175.jpg", "nama": "Premix Beton K-250", "detail": "Konstruksi bangunan bertingkat 2 lantai (ruko/rumah tinggal) standar atau perata lantai / floor screed epoxy" },
+        { "id": 3, "gambar": "Premix-Beton-K-175.jpg", "nama": "Premix Beton K-300", "detail": "Konstruksi bangunan 3 s/d 5 lantai (ruko/rumah tinggal) Cor Pondasi, Cor Kolom, Cor Balok, Cor Lantai, Cor Tangga, Rabat Beton, Overstock" }
+    ],
+    "alat": [
+        { "id": 1, "gambar": "Molen.jpg", "nama": "Molen" },
+        { "id": 2, "gambar": "Stamper.jpg", "nama": "Stamper" },
+        { "id": 3, "gambar": "Vibro.jpg", "nama": "Vibro" },
+        { "id": 4, "gambar": "Lift-Cor.jpg", "nama": "Lift Cor" }
+    ],
+    "ulasanPelanggan": [
+        { "id": 1, "gambar": "GoCement-Testimonial-Profile-Hari-Mulyadi.jpg", "nama": "Bapak Hari Mulyadi", "ulasan": "Beton premix GoCement sangat meringankan pekerjaan karena tinggal tambahkan air saja sehingga sangat praktis digunakan.", "jabatan": "Project Manager" },
+        { "id": 2, "gambar": "GoCement-Testimonial-Profile-Muhaimin.jpg", "nama": "Bapak Muhaimin", "ulasan": "GoCement sangat praktis, tidak memerlukan tempat yang luas untuk melakukan pengecoran. Buka karung, bahan dicampur, langsung cor.", "jabatan": "Project Owner" }
+    ]
+}
